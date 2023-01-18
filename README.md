@@ -15,11 +15,21 @@ The ideia of the challenge is to reproduce a close as possible to the proposed d
 
 I'm recording my advances in a [instagram profile](https://www.instagram.com/kalidah.dev), wich I use as a form of diary and for my own motivation. throughout my challenges I will also put the materials there. If you have any suggestions for improvement or anything else, you can send a message, I'll be grateful. Until later!
 
+## Link
+[Live Version](https://63c82215ea815f0d79853f9b--cozy-manatee-dcc17b.netlify.app/)
+
+## My process
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Visual Studio Code
+
+## Author
+[Links](https://linktr.ee/barbaradamas.dev) - Bárbara Damasceno
+
 ## [PT - BR]
 Esse é meu primeiro projeto em HTML e CSS, um desafio do [Frontend Mentor](https://www.frontendmentor.io). Para completar esse desafio precisei de conhecimentos básicos de HTML e CSS, é um desafio considerado fácil e decidi iniciar por ele, pois apesar de ter estudado HTML e CSS, não tinha colocado em prática. Aprendi várias coisas novas durante a execução e fiquei bem satisfeita com o resultado.
 
 A ideia do desafio é reproduzir o mais próximo possível do design proposto. Utilizei de elementos tanto de HTML quanto de CSS básicos, com o que tive em mente, literalmente testando e aprimorando. Após finalizar, fui em busca de outros profissionais que já tinham resolvido o desafio para ver como poderia melhorar. Satisfeita com o resultado e partindo para o próximo!
 
 Estou registrando meus avanços em um [perfil de instagram](https://www.instagram.com/kalidah.dev), que utilizo como forma de diário e motivação própria, ao longo dos meus desafios irei colocando os materiais também lá. Caso tenha alguma sugestão de melhoria ou qualquer outra coisa pode mandar uma mensagem, ficarei grata. Até mais!
-
-
