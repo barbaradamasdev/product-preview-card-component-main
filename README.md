@@ -16,7 +16,7 @@ The ideia of the challenge is to reproduce a close as possible to the proposed d
 I'm recording my advances in a [instagram profile](https://www.instagram.com/kalidah.dev), wich I use as a form of diary and for my own motivation. throughout my challenges I will also put the materials there. If you have any suggestions for improvement or anything else, you can send a message, I'll be grateful. Until later!
 
 ## Link
-[Live Version](https://cozy-manatee-dcc17b.netlify.app)
+[Live Version]([https://cozy-manatee-dcc17b.netlify.app](https://barbaradamasdev.github.io/product-preview-card-component-main/))
 
 ## My process
 - Semantic HTML5 markup
